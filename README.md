@@ -5,7 +5,7 @@
 
 ## Setup
 1. Clone the repo to your local machine.
-2. Save the constants.py file inside of the db/ directory
+2. Save the included constants.py file inside of the db/ directory
 3. In your local terminal, navigate to the root of this repository.
 4a. (Windows) Run the following in the terminal: `v_env\Scripts\activate`
 4b. (Mac) Run the following in the terminal: `source v_env/bin/activate`
